@@ -1,0 +1,6 @@
+[submodule "locavore-mvp-backend"]
+	path = locavore-mvp-backend
+	url = git@github.com:fcristinadebora/locavore-mvp-backend.git
+[submodule "locavore-mvp-frontend"]
+	path = locavore-mvp-frontend
+	url = git@github.com:fcristinadebora/locavore-mvp-frontend.git
